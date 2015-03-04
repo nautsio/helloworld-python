@@ -1,5 +1,5 @@
 # Hello Word web app in Python
-Python hello-world based on the app.py from the (Docker Compose tutorial)[https://docs.docker.com/compose/#installation-and-set-up].
+Python hello-world based on the app.py from the [Docker Compose tutorial](https://docs.docker.com/compose/#installation-and-set-up).
 Includes both a version that needs a Redis DB and one that doesn't.
 
 ## How to use
